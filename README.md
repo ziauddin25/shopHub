@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -42,3 +43,6 @@ cd ../frontend && npm run dev  # Vite dev server on http://localhost:5173
 ```
 
 The front‑end proxy in `vite.config.js` forwards `/api` requests to the backend, avoiding CORS.  You can also call the API directly using the `VITE_API_URL` variable.
+=======
+# shopHub
+>>>>>>> f844a936ad42011bd16388be43d5ee601e722d93
